@@ -6,4 +6,17 @@ A repository to learn linux
 - Change Directory
 
       cd
+      
+      pwd
+      
+      Is
+      
+      cat
+      
+      cp
+      
+      mkdir
+      
+      rmdir
+ 
  
